@@ -57,11 +57,11 @@ To get started with this repository, follow these steps:
 
 After installation, you can run the scripts as follows:
 
-    ```
+
     
     python script_name.py
 
-    ```
+    
 
 ***Replace script_name.py with the name of the Python file you want to execute.***
 
@@ -80,5 +80,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## 📫 Contact
 For any questions or suggestions, feel free to reach out:
 
-    Your Name - amenzelealemtadese@gmail.com
-    GitHub: Amen-Zelealem
+    Amen-Zelealem
+    📩 - amenzelealemtadese@gmail.com
